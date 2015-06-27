@@ -7,3 +7,24 @@ How is the staging area different from the working directory and the repository?
 	The "staging area" is an imaginary area (in reality, just a list of file specs)  the "working directly" is where the actual files are stored. (well, OK even the concept of a directoy is a kind of imagenary thing, but...)
 
 	Having a commit work on the “Staging Area” allows you to control which files are committed. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Adding the changes for only one change (bug fix, new feature, doc change...) at a time to the staging area and then commiting those changes, BEFOR adding changes for another reason.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Branches could be useful when you need 2 different, but probably permanent versions of a program (Some countries have different [pronounced mutually exclusive] requirements for reporting stock/commodity transactions)) where 90% of the code is exactly the same, but a small percentage of the code needs to be totally different.
+
+How do the diagrams help you visualize the branch structure?
+
+	Givs a visual representation of what has (and is) happening in a git repository
+	
+
+
+
+
+
+
+x
