@@ -1,1 +1,4 @@
 lesson 3 started 8/1/2015
+
+Problems, kept trhying to use "git remote push"
+   it's a normal "git push .....""
