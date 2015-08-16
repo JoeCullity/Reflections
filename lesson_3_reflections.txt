@@ -2,3 +2,13 @@ lesson 3 started 8/1/2015
 
 Problems, kept trhying to use "git remote push"
    it's a normal "git push .....""
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	Forks and Branches are Similar EXCEPT Branches are local and Forkers exist on a remote git hub
+
+	Clones are local copies of files that origenated on a remote git server.
+
+  
+
+
+   x
