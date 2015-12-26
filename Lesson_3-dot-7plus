@@ -1,3 +1,7 @@
+2015-12-26 
+A while ago my recipe directory on GitHub get trashed, so we renamed that
+project out of harms way and are redoing lesson 3 from scratrch.
+
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
  A - You might not be ready for changes. or might not want to be disturbed by them.
 
