@@ -27,7 +27,11 @@ What is the benefit of having a copy of the last known state of the remote store
   A - You only need to pull down the changed files, instead of pulling down the entire repository and sifting threw it looking for changes.
 
   
-
+2016-01-02
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+ A - E_Mail files back and forth - or - explain over the phone what changes I made.
+ B - Git definatly prevents errors and helps detect conflics, but the old fashin here's the new file was kind of simple and easy to understand.
+ 
 
 
 x
