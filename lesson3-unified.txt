@@ -33,6 +33,15 @@ How would you collaborate without using Git or GitHub? What would be easier, and
  B - Git definatly prevents errors and helps detect conflics, but the old fashin here's the new file was kind of simple and easy to understand.
  
 
+2016-01-03
+When would you want to make changes in a separate branch rather than directly in master?
+- So you can test your changes without messing up the (near/almost) working copy)
+- So you can discard your changes easly if things don't work out.
+
+ What benefits does each approach have?
+- Dirty, BUT Quick and easy to do for very small changes.
+
+
 
 x
   
